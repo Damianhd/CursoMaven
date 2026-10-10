@@ -14,6 +14,6 @@ public class HolaMaven {
             System.out.println("El nombre es: " + nombre);
         }
 
-        System.out.println("Proyecto Maven + Git funcionando correctamente.");
+        System.out.println("Estoy aprendiendo Git con Maven.");
     }
 }
