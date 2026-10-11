@@ -14,6 +14,6 @@ public class HolaMaven {
             System.out.println("El nombre es: " + nombre);
         }
 
-        System.out.println("Estoy aprendiendo Git con Maven.");
+        System.out.println("Esta función se desarrolla en una rama nueva.");
     }
 }
